@@ -1,0 +1,26 @@
+
+{
+
+  "dresses": [
+    {
+      "site": "asos",
+      "url": "https://www.asos.com/tfnc/tfnc-chiffon-one-shoulder-scarf-neck-maxi-dress-in-lemon/prd/210714248",
+      "target_price": 350
+    },
+    {
+      "site": "asos",
+      "url": "https://www.asos.com/aria-cove/aria-cove-double-sculpted-slinky-ruched-detail-high-neck-drop-waist-maxi-dress-in-baby-blue/prd/210093792?CTARef=Saved+Items+Image#variantId-210093804",
+      "target_price": 280
+    },
+    {
+      "site": "revolve",
+      "url": "https://www.revolve.com/astr-the-label-lizet-dress-in-periwinkle/dp/ASTR-WD872/?d=Womens&page=1&lc=3&navsrc=header&sectionURL=undefined&sessionID=8541977947&itrownum=1&itcurrpage=1&itview=05",
+      "target_price": 350
+    },
+    {
+      "site": "revolve",
+      "url": "https://www.revolve.com/katie-may-surreal-gown-in-lilac/dp/KATR-WD186/?d=Womens&page=1&lc=14&navsrc=header&sectionURL=https%3A%2F%2Fwww.revolve.com%2Fkatie-may%2Fbr%2F4687ed%2F%3FsrcType%3Ddp_des2&sessionID=8248290024&itrownum=4&itcurrpage=1&itview=05",
+      "target_price": 350
+    }
+  ]
+}
